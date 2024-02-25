@@ -1,5 +1,3 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-  <iframe src="https://giphy.com/embed/FTFI4bczpUYAp4xuSt" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/pudgypenguins-data-code-coding-FTFI4bczpUYAp4xuSt">via GIPHY</a></p>
-
+ <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTZmejEydDY5ajZkcjhmdzh0aHp6YWp4NDhqMW9lZ2htMW51NWM3MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/FTFI4bczpUYAp4xuSt/giphy.gif" width="100"/>
 </div>
