@@ -1,7 +1,7 @@
 <div id="header" align="center">
  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTZmejEydDY5ajZkcjhmdzh0aHp6YWp4NDhqMW9lZ2htMW51NWM3MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/FTFI4bczpUYAp4xuSt/giphy.gif" width="100"/>
 </div>
-#  Заголовок первого уровня
+
 ### Всем привет :) 👋 <br/>
 
 Меня зовут Костя)
@@ -20,7 +20,8 @@
 </div>
 
 ----
-💻 #Стек : <br/>
+
+💻 # Стек : <br/>
 ![TypeScript](https://img.shields.io/badge/TypeSctipt-316192?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
@@ -28,7 +29,8 @@
 ![SCSS](https://img.shields.io/badge/SCSS-black?style=for-the-badge&logo=eslint&logoColor=white)
 
 ----
-💻 #Доп. инструменты : <br/>
+
+💻 # Доп. инструменты : <br/>
 ![VITE](https://img.shields.io/badge/VITE-b044fe?style=for-the-badge&logo=eslint&logoColor=ffc921)
 ![Storybook](https://img.shields.io/badge/Storybook-ff4785?style=for-the-badge&logo=eslint&logoColor=white)
 ![Eslint](https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white)
@@ -39,11 +41,7 @@
 
 
 
-### [Тестовое задание от компании "Сектор Бизнеса"](https://github.com/xkochevnikx/json-service-post) 
-Сервис предсталяет собой страницу предоставляющую общий доступ к просмотру, поиску и сортировке списка постов полученных от сервиса jsonplaceholder.
 
-[Тестовое задание от компании "Сектор Бизнеса"](https://github.com/xkochevnikx/json-service-post) 
-Сервис предсталяет собой страницу предоставляющую общий доступ к просмотру, поиску и сортировке списка постов полученных от сервиса jsonplaceholder.
 
 
 
