@@ -26,7 +26,7 @@
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 ![JEST](https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white)
 ![SCSS](https://img.shields.io/badge/SCSS-black?style=for-the-badge&logo=eslint&logoColor=white)
-</div>
+
 ----
 💻 #Доп. инструменты : <br/>
 ![VITE](https://img.shields.io/badge/VITE-b044fe?style=for-the-badge&logo=eslint&logoColor=ffc921)
@@ -36,6 +36,22 @@
 ![MUI](https://img.shields.io/badge/MUI-007fff?style=for-the-badge&logo=eslint&logoColor=white)
 ![Yarn](https://img.shields.io/badge/yarn-2c8ebb?style=for-the-badge&logo=eslint&logoColor=white)
 ![npm](https://img.shields.io/badge/npm-cc3838?style=for-the-badge&logo=eslint&logoColor=white)
+
+
+###  👋 
+---
+📫 Контакты :
+<div id="badges">
+  <a href="https://www.linkedin.com/in/xkochevnikx/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://t.me/xkochevnikx">
+      <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+  </a>
+</div>
+
+----
+💻 Технологии : <br/>
 
 
 
