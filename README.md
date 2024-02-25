@@ -19,8 +19,8 @@
 </div>
 
 ----
-💻 Стек : <br/>
-<div >
+💻 Стек : 
+<br/>
 ![TypeScript](https://img.shields.io/badge/TypeSctipt-316192?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
@@ -28,7 +28,8 @@
 ![SCSS](https://img.shields.io/badge/SCSS-black?style=for-the-badge&logo=eslint&logoColor=white)
 </div>
 ----
-💻 Доп. инструменты : <br/>
+💻 Доп. инструменты : 
+<br/>
 ![VITE](https://img.shields.io/badge/VITE-b044fe?style=for-the-badge&logo=eslint&logoColor=ffc921)
 ![Storybook](https://img.shields.io/badge/Storybook-ff4785?style=for-the-badge&logo=eslint&logoColor=white)
 ![Eslint](https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white)
