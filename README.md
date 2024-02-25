@@ -9,7 +9,7 @@
 
 
 📫 Контакты :
-<div id="badges" align="center">
+<div id="badges">
   <a href="https://www.linkedin.com/in/konstantin-lisitsky-422a4b2b4/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
@@ -27,5 +27,6 @@
 
 ----
 💻 Доп. инструменты : <br/>
-
+![VITE](https://img.shields.io/badge/SCSS-b044fe?style=for-the-badge&logo=eslint&logoColor=ffc921)
+![SCSS](https://img.shields.io/badge/SCSS-black?style=for-the-badge&logo=eslint&logoColor=white)
 ![Eslint](https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white)
