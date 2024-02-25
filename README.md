@@ -27,6 +27,6 @@
 
 ----
 💻 Доп. инструменты : <br/>
-![VITE](https://img.shields.io/badge/SCSS-b044fe?style=for-the-badge&logo=eslint&logoColor=ffc921)
+![VITE](https://img.shields.io/badge/VITE-b044fe?style=for-the-badge&logo=eslint&logoColor=ffc921)
 ![SCSS](https://img.shields.io/badge/SCSS-black?style=for-the-badge&logo=eslint&logoColor=white)
 ![Eslint](https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white)
