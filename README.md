@@ -38,22 +38,12 @@
 ![npm](https://img.shields.io/badge/npm-cc3838?style=for-the-badge&logo=eslint&logoColor=white)
 
 
-###  👋 
----
-📫 Контакты :
-<div id="badges">
-  <a href="https://www.linkedin.com/in/xkochevnikx/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://t.me/xkochevnikx">
-      <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
-  </a>
-</div>
 
-----
-💻 Технологии : <br/>
+### [Тестовое задание от компании "Сектор Бизнеса"](https://github.com/xkochevnikx/json-service-post) 
+Сервис предсталяет собой страницу предоставляющую общий доступ к просмотру, поиску и сортировке списка постов полученных от сервиса jsonplaceholder.
 
-
+[Тестовое задание от компании "Сектор Бизнеса"](https://github.com/xkochevnikx/json-service-post) 
+Сервис предсталяет собой страницу предоставляющую общий доступ к просмотру, поиску и сортировке списка постов полученных от сервиса jsonplaceholder.
 
 
 
