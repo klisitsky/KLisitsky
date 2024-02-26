@@ -18,7 +18,9 @@
   </a>
 </div>
 
+
 ----
+
 
 ### 💻 Стек : <br/>
 
@@ -29,10 +31,11 @@
 ![SCSS](https://img.shields.io/badge/SCSS-black?style=for-the-badge&logo=eslint&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-316192?style=for-the-badge&logo=docker&logoColor=white)
 
+
 ----
 
 
-### 🛠️ Доп. инструменты : <br/>
+### 🛠️ Доп. технологии : <br/>
 
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 ![Storybook](https://img.shields.io/badge/-Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white)
@@ -45,18 +48,35 @@
 ![Formik](https://img.shields.io/badge/Formik-0052cc?style=for-the-badge&logo=eslint&logoColor=white)
 ![ReactRouter](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
 
+
 ----
+
+
+### 🛠️ Инструменты : <br/>
+
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![WebStorm](https://img.shields.io/badge/webstorm-143?style=for-the-badge&logo=webstorm&logoColor=white&color=black)
+![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
+![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+
+
+----
+
 
 ![Codewars](https://github.r2v.ch/codewars?user=ShaniDesu&theme=gradient)
 
+
 ----
+
 
 ### 💡 [Проект Todolist (закончен)](https://it-incubator-todolist.vercel.app/login) <br/>
 Web-приложение с интуитивно понятным пользовательским интерфейсом для управления задачами.<br/>
 
 **Стек:** React / Redux Toolkit / Formik / Axios Yarn / Storybook / MUI / Jest
 
+
 ----
+
 
 ### 💡 [Проект FlashCards](https://github.com/SempaiDarcy/flash_cards)  (в разработке) <br/>
 Командная разработка web-приложения, для заучивания информации по методу карточных колод. Пользователь имеет свой аккаунт, может создавать собственные колоды и проходить по ним тренировки.<br/>
