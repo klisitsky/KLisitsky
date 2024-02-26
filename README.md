@@ -32,7 +32,7 @@
 ----
 
 
-### 💻 Доп. инструменты : <br/>
+### 🛠️ Доп. инструменты : <br/>
 
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 ![Storybook](https://img.shields.io/badge/Storybook-ff4785?style=for-the-badge&logo=eslint&logoColor=white)
@@ -43,15 +43,16 @@
 ![npm](https://img.shields.io/badge/npm-cc3838?style=for-the-badge&logo=eslint&logoColor=white)
 ![ReactHookForm](https://img.shields.io/badge/ReactHookForm-ec5990?style=for-the-badge&logo=eslint&logoColor=white)
 ![Formik](https://img.shields.io/badge/Formik-0052cc?style=for-the-badge&logo=eslint&logoColor=white)
+![ReactRouter](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
 
+----
 
+### 💡 [Проект Todolist](https://it-incubator-todolist.vercel.app/login) <br/>
+Todolist - web-приложение с интуитивно понятным пользовательским интерфейсом для управления задачами.<br/>
 
+*Стек:* React / Redux Toolkit / Formik / Axios Yarn / Storybook / MUI / Jest
 
-
-
-
-
-
+----
 
 
 
