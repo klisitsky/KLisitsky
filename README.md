@@ -36,7 +36,7 @@
 
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 ![Storybook](https://img.shields.io/badge/-Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white)
-![Eslint](https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white)
+![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
 ![Radix UI](https://img.shields.io/badge/radix%20ui-161618.svg?style=for-the-badge&logo=radix-ui&logoColor=white)
 ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
 ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)
@@ -51,12 +51,17 @@
 
 ----
 
-### 💡 [Проект Todolist](https://it-incubator-todolist.vercel.app/login) <br/>
-Todolist - web-приложение с интуитивно понятным пользовательским интерфейсом для управления задачами.<br/>
+### 💡 [Проект Todolist (закончен)](https://it-incubator-todolist.vercel.app/login) <br/>
+Web-приложение с интуитивно понятным пользовательским интерфейсом для управления задачами.<br/>
 
 **Стек:** React / Redux Toolkit / Formik / Axios Yarn / Storybook / MUI / Jest
 
+----
 
+### 💡 Проект FlashCards  (в разработке) <br/>
+Командная разработка web-приложения, для заучивания информации по методу карточных колод. Пользователь имеет свой аккаунт, может создавать собственные колоды и проходить по ним тренировки.<br/>
+
+**Стек:** React / Redux Toolkit / Formik / Axios Yarn / Storybook / MUI / Jest
 
 
 
