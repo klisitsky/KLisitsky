@@ -13,7 +13,7 @@
   <a href="https://www.linkedin.com/in/konstantin-lisitsky-422a4b2b4/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://www.linkedin.com/in/konstantin-lisitsky-422a4b2b4/">
+  <a href="https://t.me/k_lisitsky">
     <img src="https://img.shields.io/badge/Telegram-32a9df?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
 </div>
